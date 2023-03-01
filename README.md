@@ -1,0 +1,2 @@
+# vuexAutoGettersAndAutoMutations
+自动创建vuex的getters和mutations
